@@ -9,7 +9,6 @@
   <groupId>com.github.goodfatcat</groupId>
   <artifactId>gigachatconnector</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>pom</packaging>
   <name>gigachatconnector</name>
   
   <properties>
